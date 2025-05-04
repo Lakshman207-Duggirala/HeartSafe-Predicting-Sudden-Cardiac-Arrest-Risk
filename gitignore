@@ -1,0 +1,11 @@
+# Python cache and notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xls
+
+# System files
+.DS_Store
+Thumbs.db
